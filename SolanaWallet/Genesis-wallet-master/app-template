@@ -1,0 +1,8 @@
+[Desktop Version]
+Type=App
+Version=*VERSION-NAME*
+Name=*USER*
+Comment=*COMMENT*
+Exec=*PACKAGEE*
+Terminal=false
+Categories=Finance

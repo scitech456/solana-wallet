@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "*PACKAG*",
+  "description": "*DESC*",
+  "version": "*VERSION*",
+  "permissions": [
+    "storage",
+    "unlimitedStorage",
+    "notifications",
+    "videoCapture",
+    "webview"
+  ],
+  "app": {
+    "background": {
+      "scripts": ["initial.js"]
+    }
+  },
+}
